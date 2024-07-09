@@ -14,9 +14,9 @@ This data analysis project aims to provide insights into the dataset to master t
 
 ### Goals of the Project
 
-1.Explore a banking dataset with Pandas framework.
-2.Build pivot tables.
-3.Visualize the dataset with various plot types.
+1. Explore a dataset with Pandas framework.
+2. Gettting meaningful insights.
+3. Visualize the dataset with various plot types.
 
 ### Used Libraries
 
